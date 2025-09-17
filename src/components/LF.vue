@@ -29,7 +29,7 @@
         minZoom: 7,
         maxZoom: 14,
         bounds: [[48.087782, 18.845], [29.199, 42.806756]],
-        errorTileUrl: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=' // прозрачный 1x1 PNG
+        errorTileUrl: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=' // transparent 1x1 PNG
     }).addTo(map);
 
     // OpenSeaMap (hydrography) layer placed above local tiles
