@@ -2,7 +2,7 @@
 
 Tiles created from the source GEBCO_2024_sub_ice_topo.nc.
 Depth range -1 m - -100 m.
-Using Leaflet, OpenStreetMap.
+Using Leaflet, OpenStreetMap, GMT.
 
 <p align="center">
   <img src="Imgs/Screenshot-from-2025-09-17.png"/>
