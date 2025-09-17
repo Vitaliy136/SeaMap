@@ -19,3 +19,11 @@ Using Leaflet, OpenStreetMap, GMT.
 <p align="center">
   <img src="Imgs/Screenshot-from-2025-09-17-3.png"/>
 </p>
+
+<p align="center">
+  <img src="Imgs/Screenshot-from-2025-09-17-4.png"/>
+</p>
+
+<p align="center">
+  <img src="Imgs/Screenshot-from-2025-09-17-5.png"/>
+</p>
